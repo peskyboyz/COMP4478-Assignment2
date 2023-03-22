@@ -85,7 +85,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e58566b66f1424748ba09bf4100dc2be, type: 3}
       propertyPath: m_Name
-      value: card_model
+      value: card_model Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e58566b66f1424748ba09bf4100dc2be, type: 3}
+      propertyPath: m_TagString
+      value: Card
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e58566b66f1424748ba09bf4100dc2be, type: 3}
@@ -1866,3 +1870,15 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!114 &6364333437779598284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8541915176325664826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbfd6226d97883041a5b5095bf995458, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
